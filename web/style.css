@@ -1,7 +1,9 @@
+
 body {
     margin: 0px;
     color: white;
     background-color: black;
+    
 }
 
 .corpo {
@@ -21,3 +23,4 @@ body {
 img {
     opacity: 0.5;
 }
+
